@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "海月に群青",
+  "base_artist": "ナナホシ管弦楽団",
+  "createdAt": "2026-02-18T17:39:31.937981Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海月に群青",
+      "artist": "ナナホシ管弦楽団",
+      "has_synced": false,
+      "path": "select/pl_01_海月に群青_ナナホシ管弦楽団.txt"
+    }
+  ]
+}
